@@ -12,5 +12,6 @@ this is a purpuse
 
 ## Deployment
 
+adding how to deploy
 
 ## How To Contribute
