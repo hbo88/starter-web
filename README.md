@@ -4,6 +4,8 @@ This is a starter web project for a git demo
 
 ## Introduction
 
+This is an introduction
+
 ## Purpose
 
 
