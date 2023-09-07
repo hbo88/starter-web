@@ -16,6 +16,7 @@ adding how to deploy
 
 ## How To Contribute
 
+Please Fork this repo
 2023 @COPYRIGHT
 
 
