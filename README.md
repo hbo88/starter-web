@@ -8,6 +8,10 @@ This is an introduction to make you all feel good
 
 ## Deployement
 
+this is how you deploy
+
 ## COnfirguration
+
+Config my lovely config
 
 ## Partnership
